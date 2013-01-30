@@ -1,0 +1,6 @@
+body{background-image: url('omfgdogs.gif'); }
+
+#link {color:black; font-size:40px; font-family:arial; 
+background-color: white; display:inline; 
+border-style:solid; border-color:black;
+position:fixed; bottom:2%; right:2%;}
